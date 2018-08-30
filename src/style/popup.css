@@ -1,0 +1,68 @@
+  html, body, .app {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+  }
+
+  .popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0,0,0, 0.5);
+  }
+
+  .popup_inner {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 15%;
+    bottom: 15%;
+    margin: auto;
+    background: white;
+    height:1000px !important;
+  }
+
+  .btn{
+    width:600px !important;
+    height:100px !important;
+    border-radius: 0 !important;
+    font-weight: bold !important;
+    font-size:35px !important;
+    margin-bottom: 70px !important;
+    margin-left: 48px !important;
+    margin-right: 48px !important;
+    padding-top:22px !important;
+  }
+
+   p{
+    color:black;
+    font-size:35px;
+    font-weight: bold;
+    font-family: 'Asap', sans-serif;
+    margin-left: 39%;
+    margin-top: -90px !important;
+    margin-bottom: 90px !important;
+  }
+
+   .popup_container_box{
+    margin-top: 180px !important;
+  }
+
+    .close{
+    display: flex;
+    flex-direction: row;
+    margin-left: 570px;
+    margin-top:30px;
+    height: 35px;
+    width: 35px;
+    }
+
