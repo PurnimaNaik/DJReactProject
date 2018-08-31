@@ -19,7 +19,7 @@ Purnima Naik's demonstrative version of the WSJ website optimized for iphone 6/7
 7.	Integrated time elapsed since article was published
 8.	Dynamically editing the feed to show/hide article categories
 
-##Video demonstration
+## Video demonstration
 https://drive.google.com/file/d/14vhN1wAktS2hjGzzn4VyS61DdjpXZ6X8/view
 
 ## License
