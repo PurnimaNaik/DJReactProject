@@ -1,5 +1,3 @@
-# Dow Jones React Tutorial
-
 ## Description
 Purnima Naik's demonstrative version of the WSJ website optimized for iphone 6/7/8
 
