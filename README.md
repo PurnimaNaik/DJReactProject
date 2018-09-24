@@ -1,5 +1,5 @@
 ## Description
-WSJ website optimized for iphone 6/7/8
+WSJ website optimized for iphone 6/7/8.
 
 ## Instructions
 - `npm install`
