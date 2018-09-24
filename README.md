@@ -4,7 +4,6 @@ Purnima Naik's demonstrative version of the WSJ website optimized for iphone 6/7
 ## Instructions
 - `npm install`
 - `npm start`
-- Open [http://localhost:3000](http://localhost:3000) and [http://localhost:3000/api/articles](http://localhost:3000/api/articles) in chrome
 - The project is optimized for iphone 6/7/8. So right-click on the website to open the 'Inspect' panel and select iphone 6/7/8 as the device viewport.
 
 ## Techniques demonstrated :-
