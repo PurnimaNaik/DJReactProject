@@ -1,10 +1,10 @@
 ## Description
-Purnima Naik's demonstrative version of the WSJ website optimized for iphone 6/7/8
+WSJ website optimized for iphone 6/7/8
 
 ## Instructions
 - `npm install`
 - `npm start`
-- The project is optimized for iphone 6/7/8. So right-click on the website to open the 'Inspect' panel and select iphone 6/7/8 as the device viewport.
+-  The project is optimized for iphone 6/7/8. So right-click on the website to open the 'Inspect' panel and select iphone 6/7/8 as the device viewport.
 
 ## Techniques demonstrated :-
 1.	Passing data using props
